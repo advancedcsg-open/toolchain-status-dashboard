@@ -8,6 +8,8 @@ sites:
   - name: Sonarqube
     url: https://ccq.svc.oneadvanced.com/api/system/status
     __dangerous__body_down_if_text_missing: 'UP'
+  - name: Unleash
+    url: https://unleash.svc.oneadvanced.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
