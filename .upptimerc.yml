@@ -16,7 +16,7 @@ sites:
   # GitHub runners
   - name: adv-cypress-runner-26878
     url: https://api.github.com/orgs/advancedcsg/actions/runners/1135
-    # __dangerous__body_down: "offline"
+    __dangerous__body_down_if_text_missing: 'online'
     headers:
       - "Authorization: Bearer ${{ secrets.API_KEY }}"
 
