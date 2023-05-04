@@ -14,13 +14,6 @@ sites:
     url: https://api.github.com/orgs/advancedcsg
 
   # GitHub Organisational runners
-  - name: adv-cypress-runner-26878
-    url: https://api.github.com/orgs/advancedcsg/actions/runners/1135
-    __dangerous__body_down_if_text_missing: 'online'
-    headers:
-      - "Authorization: Bearer $API_KEY"
-      - "Content-type: application/vnd.github+json"
-      - "X-GitHub-Api-Version: 2022-11-28"
   - name: CMISGO
     url: https://api.github.com/orgs/advancedcsg/actions/runners/44
     __dangerous__body_down_if_text_missing: 'online'
@@ -72,6 +65,13 @@ sites:
       - "X-GitHub-Api-Version: 2022-11-28"
   - name: adv-cypress-runner-20878
     url: https://api.github.com/orgs/advancedcsg/actions/runners/1138
+    __dangerous__body_down_if_text_missing: 'online'
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-type: application/vnd.github+json"
+      - "X-GitHub-Api-Version: 2022-11-28"
+  - name: adv-cypress-runner-26878
+    url: https://api.github.com/orgs/advancedcsg/actions/runners/1135
     __dangerous__body_down_if_text_missing: 'online'
     headers:
       - "Authorization: Bearer $API_KEY"
