@@ -10,14 +10,17 @@ sites:
     __dangerous__body_down_if_text_missing: 'UP'
   - name: Unleash
     url: https://unleash.svc.oneadvanced.com/
+  - name: GitHub
+    url: https://api.github.com/orgs/advancedcsg
+
   #GitHub runners
-  - name: adv-cypress-runner-26878
-    url: https://api.github.com/orgs/advancedcsg/actions/runners/1135
-    __dangerous__body_down_if_text_missing: '"status": "online"'
-    headers:
-      - "Content-Type: application/vnd.github+json"
-      - "Authorization: Bearer ${{ secrets.API_KEY }}"
-      - "X-GitHub-Api-Version: 2022-11-28"  
+  # - name: adv-cypress-runner-26878
+  #   url: https://api.github.com/orgs/advancedcsg/actions/runners/1135
+  #   __dangerous__body_down_if_text_missing: '"status": "online"'
+  #   headers:
+  #     - "Content-Type: application/vnd.github+json"
+  #     - "Authorization: Bearer ${{ secrets.API_KEY }}"
+  #     - "X-GitHub-Api-Version: 2022-11-28"  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
