@@ -58,19 +58,19 @@
     "url": "https://api.github.com/orgs/advancedcsg",
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "git-hub",
-    "status": "up",
-    "uptime": "95.15%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "95.15%",
-    "uptimeYear": "95.15%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 146,
+    "timeDay": 146,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-05-04": 9
+      "2023-05-04": 0
     }
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.github.com.ico",
     "slug": "advancedcsg-self-hosted-runner-zrvln-qjlf8",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "53.84%",
+    "uptimeDay": "53.84%",
+    "uptimeWeek": "53.84%",
+    "uptimeMonth": "53.84%",
+    "uptimeYear": "53.84%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-05-04": 0
+      "2023-05-04": 88
     }
   },
   {
