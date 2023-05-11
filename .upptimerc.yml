@@ -49,8 +49,8 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-type: application/vnd.github+json"
       - "X-GitHub-Api-Version: 2022-11-28"
-  - name: advancedcsg-self-hosted-runner-zrvln-qjlf8
-    url: https://api.github.com/orgs/advancedcsg/actions/runners/1592
+  - name: advancedcsg-self-hosted-runner-zrvln-nc7l2
+    url: https://api.github.com/orgs/advancedcsg/actions/runners/1673
     __dangerous__body_down_if_text_missing: 'online'
     headers:
       - "Authorization: Bearer $API_KEY"
@@ -77,6 +77,20 @@ sites:
       - "Authorization: Bearer $API_KEY"
       - "Content-type: application/vnd.github+json"
       - "X-GitHub-Api-Version: 2022-11-28"
+  - name: advancedcsg-self-hosted-runner-zrvln-l4zd9
+    url: https://api.github.com/orgs/advancedcsg/actions/runners/1671
+    __dangerous__body_down_if_text_missing: 'online'
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-type: application/vnd.github+json"
+      - "X-GitHub-Api-Version: 2022-11-28"    
+  - name: aadvancedcsg-self-hosted-runner-zrvln-ktwg2
+    url: https://api.github.com/orgs/advancedcsg/actions/runners/1672
+    __dangerous__body_down_if_text_missing: 'online'
+    headers:
+      - "Authorization: Bearer $API_KEY"
+      - "Content-type: application/vnd.github+json"
+      - "X-GitHub-Api-Version: 2022-11-28"    
 
 
 status-website:
