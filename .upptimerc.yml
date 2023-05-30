@@ -71,6 +71,9 @@ sites:
   - name: OpsGenie
     url: https://opsgenie.status.atlassian.com/
     __dangerous__body_down_if_text_missing: 'All Systems Operational'
+  - name: GitHub
+    url: https://www.githubstatus.com/
+    __dangerous__body_down_if_text_missing: 'All Systems Operational'
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
