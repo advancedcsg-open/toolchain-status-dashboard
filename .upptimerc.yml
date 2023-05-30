@@ -76,6 +76,16 @@ sites:
   - name: Fossa
     url: https://status.fossa.com/
     __dangerous__body_down_if_text_missing: 'All Systems Operational'
+  - name: Harness
+    url: https://status.harness.io/
+    __dangerous__body_down_if_text_missing: 'All Systems Operational'
+  - name: JIRA
+    url: https://jira-service-management.status.atlassian.com/
+    __dangerous__body_down_if_text_missing: 'All Systems Operational'
+  - name: OpsGenie
+    url: https://opsgenie.status.atlassian.com/
+    __dangerous__body_down_if_text_missing: 'All Systems Operational'    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
