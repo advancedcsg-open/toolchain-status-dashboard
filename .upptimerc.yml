@@ -71,7 +71,6 @@ sites:
       - "Content-type: application/vnd.github+json"
       - "X-GitHub-Api-Version: 2022-11-28"
 
-
   ##### 3rd Party Tools #######
   - name: Fossa
     url: https://status.fossa.com/
@@ -84,9 +83,8 @@ sites:
     __dangerous__body_down_if_text_missing: 'All Systems Operational'
   - name: OpsGenie
     url: https://opsgenie.status.atlassian.com/
-    __dangerous__body_down_if_text_missing: 'All Systems Operational'    
+    __dangerous__body_down_if_text_missing: 'All Systems Operational'
     
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
