@@ -1,7 +1,7 @@
 url: https://opsgenie.status.atlassian.com/
-status: down
+status: up
 code: 200
-responseTime: 1900
-lastUpdated: 2023-06-06T17:08:13.498Z
+responseTime: 305
+lastUpdated: 2023-06-06T17:28:19.422Z
 startTime: Tue May 30 2023 06:27:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
