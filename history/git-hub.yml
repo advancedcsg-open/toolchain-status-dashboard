@@ -1,7 +1,7 @@
-url: https://www.githubstatus.com/
-status: down
+url: https://api.github.com/orgs/advancedcsg
+status: up
 code: 200
-responseTime: 138
-lastUpdated: 2023-06-16T23:50:02.265Z
+responseTime: 167
+lastUpdated: 2023-06-16T23:58:43.944Z
 startTime: Thu May 04 2023 09:39:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
