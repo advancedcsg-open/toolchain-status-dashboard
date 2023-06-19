@@ -1,7 +1,7 @@
 url: https://api.github.com/orgs/advancedcsg/actions/runners/44
-status: up
+status: down
 code: 200
-responseTime: 223
-lastUpdated: 2023-06-19T02:48:28.117Z
+responseTime: 183
+lastUpdated: 2023-06-19T14:31:27.093Z
 startTime: Thu May 04 2023 10:27:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
