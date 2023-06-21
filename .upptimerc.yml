@@ -3,8 +3,6 @@ owner: advancedcsg-open # Your GitHub organization or username, where this repos
 repo: toolchain-status-dashboard # The name of this repository
 
 sites:
-  - name: Advanced metrics without token
-    url: https://advancedcsg.atlassian.net/plugins/servlet/ac/advanced-metrics/advanced-metrics-home
   - name: Sonarqube
     url: https://ccq.svc.oneadvanced.com/api/system/status
     __dangerous__body_down_if_text_missing: 'UP'
