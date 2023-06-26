@@ -1,7 +1,7 @@
 url: https://jira-service-management.status.atlassian.com/
-status: down
+status: up
 code: 200
-responseTime: 501
-lastUpdated: 2023-06-25T23:02:36.979Z
+responseTime: 153
+lastUpdated: 2023-06-26T12:44:26.462Z
 startTime: Tue May 30 2023 06:27:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
