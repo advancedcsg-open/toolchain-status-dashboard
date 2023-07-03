@@ -1,7 +1,7 @@
 url: https://keycloak.identity.oneadvanced.com/auth/admin/jenkins/console/
 status: up
 code: 200
-responseTime: 409
-lastUpdated: 2023-07-02T23:02:14.461Z
+responseTime: 650
+lastUpdated: 2023-07-03T23:02:20.282Z
 startTime: Wed Jun 21 2023 16:16:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
